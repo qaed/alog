@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Manifest>
+  <BusinessComponet name="pa" dispname="pa">
+    <public>
+      <src name="src/public"/>
+    </public>
+    <client>
+      <src name="src/client"/>
+    </client>
+    <private>
+      <src name="src/private"/>
+    </private>
+    <test>
+      <src name="src/test"/>
+    </test>
+    <resource>
+      <src name="resources"/>
+    </resource>
+    <funnodes/>
+  </BusinessComponet>
+  <BusinessComponet name="uap" dispname="uap">
+    <public>
+      <src name="src/public"/>
+    </public>
+    <client>
+      <src name="src/client"/>
+    </client>
+    <private>
+      <src name="src/private"/>
+    </private>
+    <test>
+      <src name="src/test"/>
+    </test>
+    <resource>
+      <src name="resources"/>
+    </resource>
+    <funnodes/>
+  </BusinessComponet>
+  <BusinessComponet name="fa" dispname="fa">
+    <public>
+      <src name="src/public"/>
+    </public>
+    <client>
+      <src name="src/client"/>
+    </client>
+    <private>
+      <src name="src/private"/>
+    </private>
+    <test>
+      <src name="src/test"/>
+    </test>
+    <resource>
+      <src name="resources"/>
+    </resource>
+    <funnodes/>
+  </BusinessComponet>
+  <BusinessComponet name="yer" dispname="yer">
+    <public>
+      <src name="src/public"/>
+    </public>
+    <client>
+      <src name="src/client"/>
+    </client>
+    <private>
+      <src name="src/private"/>
+    </private>
+    <test>
+      <src name="src/test"/>
+    </test>
+    <resource>
+      <src name="resources"/>
+    </resource>
+    <funnodes/>
+  </BusinessComponet>
+  <BusinessComponet name="erm" dispname="erm">
+    <public>
+      <src name="src/public"/>
+    </public>
+    <client>
+      <src name="src/client"/>
+    </client>
+    <private>
+      <src name="src/private"/>
+    </private>
+    <test>
+      <src name="src/test"/>
+    </test>
+    <resource>
+      <src name="resources"/>
+    </resource>
+    <funnodes/>
+  </BusinessComponet>
+  <BusinessComponet name="tbb" dispname="tbb">
+    <public>
+      <src name="src/public"/>
+    </public>
+    <client>
+      <src name="src/client"/>
+    </client>
+    <private>
+      <src name="src/private"/>
+    </private>
+    <test>
+      <src name="src/test"/>
+    </test>
+    <resource>
+      <src name="resources"/>
+    </resource>
+    <funnodes/>
+  </BusinessComponet>
+  <BusinessComponet name="arap" dispname="arap">
+    <public>
+      <src name="src/public"/>
+    </public>
+    <client>
+      <src name="src/client"/>
+    </client>
+    <private>
+      <src name="src/private"/>
+    </private>
+    <test>
+      <src name="src/test"/>
+    </test>
+    <resource>
+      <src name="resources"/>
+    </resource>
+    <funnodes/>
+  </BusinessComponet>
+  <BusinessComponet name="gl" dispname="gl">
+    <public>
+      <src name="src/public"/>
+    </public>
+    <client>
+      <src name="src/client"/>
+    </client>
+    <private>
+      <src name="src/private"/>
+    </private>
+    <test>
+      <src name="src/test"/>
+    </test>
+    <resource>
+      <src name="resources"/>
+    </resource>
+    <funnodes/>
+  </BusinessComponet>
+  <BusinessComponet name="sf" dispname="sf">
+    <public>
+      <src name="src/public"/>
+    </public>
+    <client>
+      <src name="src/client"/>
+    </client>
+    <private>
+      <src name="src/private"/>
+    </private>
+    <test>
+      <src name="src/test"/>
+    </test>
+    <resource>
+      <src name="resources"/>
+    </resource>
+    <funnodes/>
+  </BusinessComponet>
+  <BusinessComponet name="obm" dispname="obm">
+    <public>
+      <src name="src/public"/>
+    </public>
+    <client>
+      <src name="src/client"/>
+    </client>
+    <private>
+      <src name="src/private"/>
+    </private>
+    <test>
+      <src name="src/test"/>
+    </test>
+    <resource>
+      <src name="resources"/>
+    </resource>
+    <funnodes/>
+  </BusinessComponet>
+  <BusinessComponet name="tmpub" dispname="tmpub">
+    <public>
+      <src name="src/public"/>
+    </public>
+    <client>
+      <src name="src/client"/>
+    </client>
+    <private>
+      <src name="src/private"/>
+    </private>
+    <test>
+      <src name="src/test"/>
+    </test>
+    <resource>
+      <src name="resources"/>
+    </resource>
+    <funnodes/>
+  </BusinessComponet>
+  <BusinessComponet name="cmp" dispname="">
+    <public>
+      <src name="src/public"/>
+    </public>
+    <client>
+      <src name="src/client"/>
+    </client>
+    <private>
+      <src name="src/private"/>
+    </private>
+    <test>
+      <src name="src/test"/>
+    </test>
+    <resource>
+      <src name="resources"/>
+    </resource>
+    <funnodes/>
+  </BusinessComponet>
+</Manifest>
