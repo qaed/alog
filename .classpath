@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="cmp/classes" path="cmp/src/public"/>
+	<classpathentry kind="src" output="cmp/classes" path="cmp/src/client"/>
+	<classpathentry kind="src" output="cmp/classes" path="cmp/src/private"/>
+	<classpathentry kind="src" output="cmp/classes" path="cmp/resources"/>
+	<classpathentry kind="src" output="cmp/classes" path="cmp/src/test"/>
+	<classpathentry kind="src" output="tmpub/classes" path="tmpub/src/public"/>
+	<classpathentry kind="src" output="tmpub/classes" path="tmpub/src/client"/>
+	<classpathentry kind="src" output="tmpub/classes" path="tmpub/src/private"/>
+	<classpathentry kind="src" output="tmpub/classes" path="tmpub/resources"/>
+	<classpathentry kind="src" output="tmpub/classes" path="tmpub/src/test"/>
+	<classpathentry kind="src" output="obm/classes" path="obm/src/public"/>
+	<classpathentry kind="src" output="obm/classes" path="obm/src/client"/>
+	<classpathentry kind="src" output="obm/classes" path="obm/src/private"/>
+	<classpathentry kind="src" output="obm/classes" path="obm/resources"/>
+	<classpathentry kind="src" output="obm/classes" path="obm/src/test"/>
+	<classpathentry kind="src" output="sf/classes" path="sf/src/public"/>
+	<classpathentry kind="src" output="sf/classes" path="sf/src/client"/>
+	<classpathentry kind="src" output="sf/classes" path="sf/src/private"/>
+	<classpathentry kind="src" output="sf/classes" path="sf/resources"/>
+	<classpathentry kind="src" output="sf/classes" path="sf/src/test"/>
+	<classpathentry kind="src" output="gl/classes" path="gl/src/public"/>
+	<classpathentry kind="src" output="gl/classes" path="gl/src/client"/>
+	<classpathentry kind="src" output="gl/classes" path="gl/src/private"/>
+	<classpathentry kind="src" output="gl/classes" path="gl/resources"/>
+	<classpathentry kind="src" output="gl/classes" path="gl/src/test"/>
+	<classpathentry kind="src" output="arap/classes" path="arap/src/public"/>
+	<classpathentry kind="src" output="arap/classes" path="arap/src/client"/>
+	<classpathentry kind="src" output="arap/classes" path="arap/src/private"/>
+	<classpathentry kind="src" output="arap/classes" path="arap/resources"/>
+	<classpathentry kind="src" output="arap/classes" path="arap/src/test"/>
+	<classpathentry kind="src" output="tbb/classes" path="tbb/src/public"/>
+	<classpathentry kind="src" output="tbb/classes" path="tbb/src/client"/>
+	<classpathentry kind="src" output="tbb/classes" path="tbb/src/private"/>
+	<classpathentry kind="src" output="tbb/classes" path="tbb/resources"/>
+	<classpathentry kind="src" output="tbb/classes" path="tbb/src/test"/>
+	<classpathentry kind="src" output="erm/classes" path="erm/src/public"/>
+	<classpathentry kind="src" output="erm/classes" path="erm/src/client"/>
+	<classpathentry kind="src" output="erm/classes" path="erm/src/private"/>
+	<classpathentry kind="src" output="erm/classes" path="erm/resources"/>
+	<classpathentry kind="src" output="erm/classes" path="erm/src/test"/>
+	<classpathentry kind="src" output="yer/classes" path="yer/src/public"/>
+	<classpathentry kind="src" output="yer/classes" path="yer/src/client"/>
+	<classpathentry kind="src" output="yer/classes" path="yer/src/private"/>
+	<classpathentry kind="src" output="yer/classes" path="yer/resources"/>
+	<classpathentry kind="src" output="yer/classes" path="yer/src/test"/>
+	<classpathentry kind="src" output="fa/classes" path="fa/src/public"/>
+	<classpathentry kind="src" output="fa/classes" path="fa/src/client"/>
+	<classpathentry kind="src" output="fa/classes" path="fa/src/private"/>
+	<classpathentry kind="src" output="fa/classes" path="fa/resources"/>
+	<classpathentry kind="src" output="fa/classes" path="fa/src/test"/>
+	<classpathentry kind="src" output="uap/classes" path="uap/src/public"/>
+	<classpathentry kind="src" output="uap/classes" path="uap/src/client"/>
+	<classpathentry kind="src" output="uap/classes" path="uap/src/private"/>
+	<classpathentry kind="src" output="uap/classes" path="uap/resources"/>
+	<classpathentry kind="src" output="uap/classes" path="uap/src/test"/>
+	<classpathentry kind="src" output="pa/classes" path="pa/src/public"/>
+	<classpathentry kind="src" output="pa/classes" path="pa/src/client"/>
+	<classpathentry kind="src" output="pa/classes" path="pa/src/private"/>
+	<classpathentry kind="src" output="pa/classes" path="pa/resources"/>
+	<classpathentry kind="src" output="pa/classes" path="pa/src/test"/>
+	<classpathentry kind="src" output="out/resources" path="resources"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="nc.uap.mde.library.container/Ant_Library"/>
+	<classpathentry kind="con" path="nc.uap.mde.library.container/Product_Common_Library"/>
+	<classpathentry kind="con" path="nc.uap.mde.library.container/Middleware_Library"/>
+	<classpathentry kind="con" path="nc.uap.mde.library.container/Framework_Library"/>
+	<classpathentry kind="con" path="nc.uap.mde.library.container/Module_Public_Library"/>
+	<classpathentry kind="con" path="nc.uap.mde.library.container/Module_Client_Library"/>
+	<classpathentry kind="con" path="nc.uap.mde.library.container/Module_Private_Library"/>
+	<classpathentry kind="con" path="nc.uap.mde.library.container/Module_Lang_Library"/>
+	<classpathentry kind="con" path="nc.uap.mde.library.container/Generated_EJB"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
