@@ -1,0 +1,8 @@
+.classpath
+/bin
+*.class
+.settings
+.module_prj
+.project
+.amateras
+.checkstyle
